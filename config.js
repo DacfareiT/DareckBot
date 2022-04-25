@@ -1,9 +1,9 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/JlomZPEgo3bLmzjGUYPfyJ']
-global.channelYT = [] 
-global.owner = ['48699526313' , '5219996125657' , '48729750027']// Cambia los numeros por tu o tus numeros
-global.mods = ['972557048356'] // Cambia el numero y escribe el numero que sera del Bot
-global.prems = ['17728012701'] // Cambia el numero y escribe el de un usuario premium VIP
+global.channelYT = ['https://youtube.com/channel/UCFPK2UQoba3rixN7ul9CTSA'] 
+global.owner = ['51925789376']// Cambia los numeros por tu o tus numeros
+global.mods = ['51969898436'] // Cambia el numero y escribe el numero que sera del Bot
+global.prems = ['51925789376'] // Cambia el numero y escribe el de un usuario premium VIP
 
 //Nota para ti xD: Puedes contactarme si necesitas ayuda con algo al +529996125657
 
@@ -43,8 +43,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Toma tu sticker :D'
-global.author = 'The Shadow Brokers - Bot'
+global.packname = 'DacfareiT 👽'
+global.author = 'DacfareiT YT'
 
 
 //global.wait = '*Esperé un momento..*'
